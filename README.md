@@ -60,10 +60,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OcelusPRO&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OcelusPRO&api_domain=time.ftnl.link&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" align="center" />
+</div> 
 <br/>  
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OcelusPRO&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
+<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=OcelusPRO&&style=flat-square" align="center" />
