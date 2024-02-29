@@ -9,7 +9,7 @@
 - 🐉 I am the main developer creator of [FTNL](https://ftnl.fr)  
   
 
-- 🎵 [ChilBot](https://chillbot.me/) developer  
+- 🎵 [ChillBot](https://chillbot.me/) developer  
   
 
 - 📜 Not to mention the many backend projects  
